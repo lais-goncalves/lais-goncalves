@@ -11,8 +11,6 @@
 
 - 💬 Você pode me perguntar sobre **C#, JavaScript e (um pouco de) Python e Java**
 
-- 📫 Meu contato é **laisgoncalves2109@gmail.com**
-
 <!--- 📄 Minhas experiências profissionais [https://www.linkedin.com/in/la%C3%ADs-gon%C3%A7alves-7084a9288](https://www.linkedin.com/in/la%C3%ADs-gon%C3%A7alves-7084a9288)-->
 
 - ⚡ Fato interessante: **comecei a programar aos 14 anos e nunca parei!**
